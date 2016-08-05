@@ -6,4 +6,4 @@
       if(obj.data('href-new')) window.open(obj.data('href-new'));
     });
   };
-});
+}(jquery));
